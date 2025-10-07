@@ -14,7 +14,7 @@ Python script developed to automate the transcription of audio files into a .txt
 ---
 
 ## 📂 Project Structure Example
-
+```text
 Transcription/
 │
 ├── transcribe.py
@@ -23,6 +23,7 @@ Transcription/
 ├── assets/
 │   └── transcription_sc.png
 └── README.md
+```
 
 ---
 
@@ -52,8 +53,9 @@ python transcribe.py
 ---
 ## 📸 Example Output
 <img src="assets/transcription_sc.png" alt="Screenshot of Example Output" width="800" />
-*⚠️ FP16 warning is normal when running on CPU*
+_⚠️ FP16 warning is normal when running on CPU_
 
 ---
 Developed by Leo Valdez
+
 
