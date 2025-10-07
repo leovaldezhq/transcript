@@ -53,10 +53,10 @@ python transcribe.py
 ---
 ## 📸 Example Output
 <img src="assets/transcription_sc.png" alt="Screenshot of Example Output" width="800" />
-⚠️<i> FP16 warning is normal when running on CPU <i>
+⚠️<i> FP16 warning is normal when running on CPU </i>
 
 ---
-Developed by Leo Valdez
 
+Developed by Leo Valdez
 
 
