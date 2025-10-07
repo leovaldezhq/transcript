@@ -21,7 +21,7 @@ Transcription/
 ├── audios/
 ├── transcriptions/
 ├── assets/
-│   └── screenshot.png
+│   └── transcription_sc.png
 └── README.md
 
 ---
@@ -51,8 +51,9 @@ python transcribe.py
 
 ---
 ## 📸 Example Output
-<img src="assets/screenshot.png" alt="Screenshot of Example Output" width="800" />
+<img src="assets/transcription_sc.png" alt="Screenshot of Example Output" width="800" />
 *⚠️ FP16 warning is normal when running on CPU*
 
 ---
 Developed by Leo Valdez
+
